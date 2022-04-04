@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/github.io/BibleVerse/static/css/main.5ba72b31.css",
+    "main.js": "/github.io/BibleVerse/static/js/main.d1b7a779.js",
+    "static/media/img.jpg": "/github.io/BibleVerse/static/media/img.2495e6aa1314777d3389.jpg",
+    "index.html": "/github.io/BibleVerse/index.html",
+    "main.5ba72b31.css.map": "/github.io/BibleVerse/static/css/main.5ba72b31.css.map",
+    "main.d1b7a779.js.map": "/github.io/BibleVerse/static/js/main.d1b7a779.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ba72b31.css",
+    "static/js/main.d1b7a779.js"
+  ]
+}
