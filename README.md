@@ -1,4 +1,5 @@
-**IMPORTANT**
+****IMPORTANT****  
+
 For publishing purposes, the default branch is set to gh-pages
 The original code is on the master branch
 
